@@ -27,3 +27,21 @@ Full Stack Developer Jr</a>
 
 </p>
 ✈️Let´s Go!🛩
+
+# Ejercicio 1
+
+Contenedor centrado
+width 50vh
+height50vh
+Dentro del contendor habra un circulo posicionado al contendor top 10% left 10%
+Dentro del contendor habra un cuadrado posicionado al contendor buttonp 20px right 20px
+
+# Ejercicio 2
+
+ViewPort gradiente que queramos
+300VH de height
+SIMULACION DE NAVBAR sticky
+
+# Ejercicio 3
+
+Lista de 3 contenidos que se apilan por titulo-
